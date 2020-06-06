@@ -1,0 +1,18 @@
+div{
+    width: 400px;
+    height: 500px;
+    background-image: url("../img/ejercicio-5_item.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    
+}
+
+img{
+    width: 50px;
+    position: absolute;
+    bottom: 100px;
+    right: 20px;
+
+
+}
